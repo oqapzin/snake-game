@@ -2,7 +2,7 @@
 Joginho da cobrinha desenvolvido em conjunto com a Gabriela Pinheiro, instrutora da DIO. 
 
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 
 - Html
 - Css
